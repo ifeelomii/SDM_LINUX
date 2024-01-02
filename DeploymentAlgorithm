@@ -1,0 +1,20 @@
+creating EC2 instance
+select ubuntu OS
+create new key pair(.ppk)
+launch instance
+select instance and select security groups
+change inbound rules
+add rule, all trafic, IPV4
+connect to the instance
+--ON LINUX CLI
+clear
+sudo apt update
+sudo apt install npm
+sudo apt install nodejs
+npm install express
+npm init
+
+mkdir <folder>
+cd <folder>
+git clone repo(server.js)
+ 
