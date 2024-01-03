@@ -1,5 +1,5 @@
 let express = require("express");
-let app = express;
+let app = express();
 
 app.length("/", (req, res) => {
   res.send("Hello World");
